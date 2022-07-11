@@ -6,6 +6,9 @@
 ## Tech
 - Python 
 - Some Libraries like pandas,seaborn,matplotlib,etc.
+## DateSet
+- https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv
+- https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
  # Analysis
  - Top most and least popular songs.
  - Duration of different generes.
@@ -23,4 +26,3 @@
 ## Popularity of generes
 ![generes](https://user-images.githubusercontent.com/76864608/178216556-b1c84528-1236-4685-8cb9-a8276a7ed60e.png)
 
-www.google.com
