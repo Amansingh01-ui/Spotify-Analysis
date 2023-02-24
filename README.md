@@ -2,7 +2,7 @@
 ## Spotify is the world's largest audio streaming platform.
 ## Methods
 - Exploratory Data Analysis
-- Featues Analysis
+- Features Analysis
 ## Tech
 - Python 
 - Some Libraries like pandas,seaborn,matplotlib,etc.
